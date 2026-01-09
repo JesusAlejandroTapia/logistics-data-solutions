@@ -1,0 +1,9 @@
+# Ignore typical Python artifacts and workspace files
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.venv/
+*.xlsx
+*.xls
+

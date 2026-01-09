@@ -1,0 +1,11 @@
+# Placeholder Workforce Calculator (CSV)
+# Header row: Field names (do not include the comment lines in real CSV uploads)
+Daily_Volume,Avg_Handle_Time_min,Shifts,FTE_per_shift,Shrinkage_percent
+10000,0.5,3,5,0.10
+
+# Example usage:
+# - Daily_Volume: total units processed per day
+# - Avg_Handle_Time_min: average minutes to handle one unit
+# - Shifts: number of shifts
+# - FTE_per_shift: starting estimate for FTEs per shift
+# - Shrinkage_percent: fraction of time lost (breaks, training), e.g., 0.10 for 10%
