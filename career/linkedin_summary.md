@@ -1,0 +1,1 @@
+Experienced Logistics & Operations professional transitioning to Data Analytics. 8 years of hands-on Amazon operations (inventory, receiving, shipping). I build straightforward analytical tools (Excel, Python) to improve throughput and reduce delays. Open to remote Supply Chain Analyst roles — portfolio: https://github.com/JesusAlejandroTapia/logistics-data-solutions
